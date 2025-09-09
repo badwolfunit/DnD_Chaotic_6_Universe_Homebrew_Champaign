@@ -1,0 +1,30 @@
+Belial, The Deceiver
+
+
+Large Fiend (Archdevil), Neutral Evil
+
+
+AC: 21 | HP: 420 (24d12 + 240) | Speed: 40 ft., fly 60 ft.
+
+
+STR 26 (+8) | DEX 18 (+4) | CON 26 (+8) | INT 28 (+9) | WIS 22 (+6) | CHA 28 (+9)
+
+
+Legendary Actions
+
+    Illusionary Doppelgangers: Summons 1d4 illusory copies.
+
+    Mind Crush (Costs 2 Actions): DC 26 INT save, 6d12 psychic damage.
+
+    Shadow Step: Teleport 60 ft.
+
+
+Lair Actions
+
+    Fog of Lies: 60-ft radius; all attack rolls against Belial have disadvantage.
+
+    Whispering Madness: 20-ft radius, DC 24 WIS save or 3d10 psychic damage + confusion.
+
+
+Corruption Aura: Within 30 ft., lies and deceit warp reality; creatures must succeed on DC 26 WIS save to act normally.
+

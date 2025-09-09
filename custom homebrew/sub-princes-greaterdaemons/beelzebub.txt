@@ -1,0 +1,40 @@
+Beelzebub, Lord of Plagues
+
+
+Huge Fiend (Demon), Chaotic Evil
+
+
+Armor Class: 20 (natural armor)
+
+Hit Points: 310 (20d12 + 180)
+
+Speed: 40 ft., fly 60 ft.
+
+
+STR 28 (+9) | DEX 12 (+1) | CON 28 (+9) | INT 18 (+4) | WIS 16 (+3) | CHA 20 (+5)
+
+
+Damage Resistances: Fire, Poison; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
+
+Damage Immunities: Poison, Disease
+
+Condition Immunities: Poisoned, Diseased
+
+Challenge: 20 (25,000 XP)
+
+
+Plague Aura. 20-ft radius, creatures start turn must make DC 18 Con save or contract a minor disease (DM decides).
+
+
+Actions:
+
+    Swarm Strike: 4d12 piercing + 4d12 poison to all creatures in melee.
+
+    Call of Filth (Recharge 5–6): Summon 2d6 swarms of insects in 60 ft. radius.
+
+
+Legendary Actions (2/round):
+
+    Poison Cloud (20-ft radius, DC 18 Con save, 4d10 poison damage).
+
+    Summon Minion (Costs 2 Actions): Summons 1d4 lesser demons.

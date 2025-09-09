@@ -1,0 +1,29 @@
+Satan, The Crowned Tempter
+
+
+Huge Fiend (Archdevil), Lawful Evil
+
+
+AC: 22 | HP: 480 (30d12 + 240) | Speed: 40 ft., fly 80 ft.
+
+
+STR 28 (+9) | DEX 16 (+3) | CON 26 (+8) | INT 26 (+8) | WIS 24 (+7) | CHA 30 (+10)
+
+
+Legendary Actions
+
+    Hellfire Strike: +2d12 fire damage.
+
+    Dominate Mortal (Costs 2 Actions): One humanoid charmed (DC 26).
+
+    Summon Lieutenants: 1d4 Greater Demons arrive.
+
+
+Lair Actions
+
+    Chains of Temptation: restrains up to 3 targets (STR DC 24).
+
+    Eruption of Hellfire: 20-ft radius, DC 26 Dex save or 6d12 fire damage.
+
+
+Corruption Aura: Any evil-aligned creature gains advantage on attacks and saves while within 30 ft.; non-evil take 3d10 psychic and fire damage on failed WIS DC 26 save.

@@ -1,0 +1,36 @@
+Leviathan, The Serpent of the Abyss
+
+
+Gargantuan Fiend (Archdevil), Chaotic Evil
+
+
+AC: 21 (natural armor) | HP: 490 (28d20 + 224) | Speed: 50 ft., swim 120 ft., fly 40 ft.
+
+
+STR 30 (+10) | DEX 18 (+4) | CON 28 (+9) | INT 22 (+6) | WIS 20 (+5) | CHA 26 (+8)
+
+
+Damage Resistances: Cold, Lightning; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
+
+Damage Immunities: Poison
+
+Senses: Darkvision 120 ft., Truesight 60 ft. | Languages: All, Telepathy 120 ft. | CR: 28
+
+
+Legendary Actions (3/round)
+
+    Tail Sweep: 3d10 bludgeoning in 20-ft line.
+
+    Crush: Grapple and restrain one target (DC 24 STR save).
+
+    Call Abyssal Currents (Costs 2 Actions): Pushes all creatures within 60 ft. 30 ft.
+
+
+Lair Actions
+
+    Create whirlpool in water terrain or flooding 40-ft radius.
+
+    Psychic thrash: DC 24 WIS save or take 6d10 psychic damage.
+
+
+Corruption Aura: Water and swamp terrain within 60 ft. becomes difficult and poisonous; creatures start turn must succeed DC 24 CON or take 4d10 poison damage.

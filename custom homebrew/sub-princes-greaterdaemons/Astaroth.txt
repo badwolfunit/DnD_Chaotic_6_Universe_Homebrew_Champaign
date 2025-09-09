@@ -1,0 +1,49 @@
+Astaroth, The Keeper of Forbidden Knowledge
+
+
+Huge Fiend (Archdevil), Neutral Evil
+
+
+AC: 21 | HP: 360 (24d12 + 192) | Speed: 40 ft., fly 80 ft.
+
+
+STR 24 (+7) | DEX 16 (+3) | CON 26 (+8) | INT 28 (+9) | WIS 22 (+6) | CHA 26 (+8)
+
+
+Skills: Arcana +16, History +16, Insight +13
+
+Damage Resistances: Psychic, Fire; Bludgeoning/Piercing/Slashing from nonmagical attacks
+
+Damage Immunities: Poison
+
+Condition Immunities: Charmed, Frightened, Poisoned
+
+Senses: Truesight 120 ft., Darkvision 120 ft.
+
+Languages: All, Telepathy 120 ft.
+
+CR: 22
+
+
+Multiattack: 2 Claw + Forbidden Knowledge Blast
+
+
+Claw: +14 to hit, 2d12 + 7 slashing damage
+
+Forbidden Knowledge Blast (Recharge 5–6): 60-ft line, DC 22 INT save, 6d10 psychic damage + curse (target loses 1d4 INT until long rest)
+
+
+Legendary Actions (3/round):
+
+    Whisper Secrets: DC 22 WIS save, 3d10 psychic damage + frightened 1 turn
+
+    Reveal Weakness (Costs 2 Actions): Choose 1 creature, next attack deals +2d10 damage
+
+    Summon Lesser Demon (Costs 2 Actions): Summons 1d4 Imp/Quasit
+
+
+Lair Actions:
+
+    Veil of Madness: 60-ft radius, DC 22 WIS save or stunned 1 round
+
+    Arcane Corruption: Magical effects within 60 ft. are hindered, DC 22 INT save to succeed

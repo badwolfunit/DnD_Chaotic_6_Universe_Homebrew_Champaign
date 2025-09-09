@@ -1,0 +1,49 @@
+Asmodee, The Lord of Lust and Desire
+
+
+Huge Fiend (Archdevil), Chaotic Evil
+
+
+AC: 21 | HP: 340 (22d12 + 176) | Speed: 40 ft., fly 80 ft.
+
+
+STR 22 (+6) | DEX 18 (+4) | CON 24 (+7) | INT 26 (+8) | WIS 20 (+5) | CHA 30 (+10)
+
+
+Skills: Persuasion +17, Deception +17, Insight +13
+
+Damage Resistances: Psychic, Fire; Nonmagical B/P/S
+
+Damage Immunities: Poison
+
+Condition Immunities: Charmed, Frightened, Poisoned
+
+Senses: Truesight 120 ft., Darkvision 120 ft.
+
+Languages: All, Telepathy 120 ft.
+
+CR: 22
+
+
+Multiattack: 2 Claw + Enchanting Gaze
+
+
+Claw: +14 to hit, 2d12 + 6 slashing
+
+Enchanting Gaze (Recharge 5–6): DC 22 CHA save or charmed 1 minute, can repeat each turn, hostile creatures can make save at end of their turn
+
+
+Legendary Actions (3/round):
+
+    Seductive Strike: +2d10 psychic damage, target charmed 1 turn
+
+    Command Desire (Costs 2 Actions): Target humanoid obeys one simple action
+
+    Summon Temptress (Costs 2 Actions): Summons 1d4 Succubi/Incubi
+
+
+Lair Actions:
+
+    Aura of Temptation: 60-ft radius, DC 22 WIS save or disadvantage on attacks
+
+    Erotic Confusion: 3 creatures swap places randomly within 30 ft., DC 22 WIS save to resist

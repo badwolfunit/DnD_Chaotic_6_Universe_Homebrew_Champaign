@@ -1,0 +1,35 @@
+Reforger Adept
+
+
+Medium Humanoid (any), Any Evil Alignment
+
+
+Armor Class: 15 (leather + magical enhancements)
+
+Hit Points: 85 (10d8 + 40)
+
+Speed: 30 ft.
+
+
+STR 14 (+2) | DEX 16 (+3) | CON 18 (+4) | INT 16 (+3) | WIS 14 (+2) | CHA 12 (+1)
+
+
+Skills: Arcana +5, Deception +3, Stealth +5
+
+Saving Throws: INT +5, WIS +4
+
+
+Actions:
+
+    Demonic Blade: +6 to hit, 2d8+3 slashing + 1d6 fire damage.
+
+    Summon Minor Demon (1/day): Summon 1d2 lesser demons for 1 hour.
+
+    Infernal Ritual: Can perform a 1-hour ritual to corrupt an area or item.
+
+
+Special Traits:
+
+    Dark Patron Boon: Gains a temporary +2 to spell attacks or saves for 1 hour after worship or ritual.
+
+    Cunning Action: Can Dash, Disengage, or Hide as a bonus action.

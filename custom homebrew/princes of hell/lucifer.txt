@@ -1,0 +1,68 @@
+Lucifer, The Mind That Burns
+
+
+Medium Fiend (Archdevil), Lawful Evil
+
+
+Armor Class: 22 (natural armor)
+
+Hit Points: 525 (30d20 + 300)
+
+Speed: 40 ft., fly 90 ft. (hover)
+
+
+STR 24 (+7) | DEX 20 (+5) | CON 30 (+10) | INT 28 (+9) | WIS 26 (+8) | CHA 30 (+10)
+
+
+Saving Throws: INT +17, WIS +16, CHA +18
+
+Skills: Arcana +17, Insight +16, Deception +18, Persuasion +18
+
+Damage Resistances: Cold, Fire, Lightning; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
+
+Damage Immunities: Poison, Psychic
+
+Condition Immunities: Charmed, Frightened, Poisoned
+
+Senses: Truesight 120 ft., Passive Perception 18
+
+Languages: All, Telepathy 120 ft.
+
+Challenge: 30 (155,000 XP)
+
+
+Innate Spellcasting. Lucifer’s spellcasting ability is Charisma (spell save DC 26). He can cast at will: Detect Thoughts, Dominate Person, Fireball, Wall of Fire, Mind Spike.
+
+
+Legendary Resistance (3/day). If Lucifer fails a saving throw, he can choose to succeed instead.
+
+
+Actions:
+
+    Celestial Flames (Recharge 5–6). 60 ft. cone, 12d10 radiant + 12d10 psychic.
+
+    Infernal Contract. Makes one humanoid within 60 ft. fall under a binding contract (DC 26 Charisma save to resist).
+
+    Multiattack. 3 melee attacks with Radiant Blade (3d12 + 7 slashing + 7 radiant).
+
+
+Legendary Actions (3/round):
+
+    Move: Fly up to half speed without provoking attacks of opportunity.
+
+    Telepathic Assault: Target creature must succeed DC 26 INT save or take 4d12 psychic damage.
+
+    Summon Lesser Demon (Costs 2 Actions): Summons 1d4 minor demons under his command.
+
+
+Lair Actions:
+
+    On initiative count 20, Lucifer can:
+
+        Unleash a wave of psychic terror in a 60-ft radius (Wis save DC 26, 6d10 psychic damage).
+
+        Bend reality, creating illusions or obstacles in up to a 120-ft area.
+
+
+Corruption Aura. Any non-evil creature starting its turn within 30 ft. must succeed on a DC 26 Wisdom save or take 3d10 psychic damage and gain a level of Madness (DMG 260).
+
