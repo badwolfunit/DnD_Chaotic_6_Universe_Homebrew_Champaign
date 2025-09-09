@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="adventuresinmiddleearth_archive.torrent" source="metadata">
+    <btih>58f46ca6fa04c2ce6b0c19901430ff0acefbdde1</btih>
+    <mtime>1637108155</mtime>
+    <size>24009</size>
+    <md5>e5ed512d3fd1a3e9dc5f7f0cd5323bee</md5>
+    <crc32>f4c51ced</crc32>
+    <sha1>4bf87293b43dab62b2b376197189225fbac63cbb</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="adventuresinmiddleearth_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>cec0ea3747c0feeb29f9b284ddc403eb</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="adventuresinmiddleearth_loremastersguide.zip" source="original">
+    <mtime>1636695992</mtime>
+    <size>48915000</size>
+    <md5>e48adef13641e63949156c5e71e302d7</md5>
+    <crc32>50f3232d</crc32>
+    <sha1>d086ec5dc1eb238b8e6f1253028b18961cae3e75</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="adventuresinmiddleearth_meta.sqlite" source="original">
+    <mtime>1636696061</mtime>
+    <size>45056</size>
+    <md5>4d9d4783497f28f59e03b7d356c1f21b</md5>
+    <crc32>6d49d348</crc32>
+    <sha1>718db5b0e6c8cb7dd7083f2b6a6a3a25c8bb0228</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="adventuresinmiddleearth_meta.xml" source="original">
+    <mtime>1637108146</mtime>
+    <size>989</size>
+    <md5>2e8f175e5876dc7de77d87e4b91e52ed</md5>
+    <crc32>1a45351f</crc32>
+    <sha1>7bf91f18df544a1f82039148c955e934e41a5e65</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="adventuresinmiddleearth_playersguide.zip" source="original">
+    <mtime>1636696023</mtime>
+    <size>56078835</size>
+    <md5>853d5436f17fd1365c78449f31ead4c2</md5>
+    <crc32>9d28d1c3</crc32>
+    <sha1>b61367f49a6da47ecb4300007aacf5b079c79fe3</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="bree_landregionguide.zip" source="original">
+    <mtime>1636696038</mtime>
+    <size>25533845</size>
+    <md5>3a1d31357cd3254237f8cc9f9d48004d</md5>
+    <crc32>35a411df</crc32>
+    <sha1>f764b0ecc51486314d456dcde4e25d495ee5bb1c</sha1>
+    <format>ZIP</format>
+    <viruscheck>1636697316</viruscheck>
+  </file>
+  <file name="ereboradventures.zip" source="original">
+    <mtime>1636695744</mtime>
+    <size>53326765</size>
+    <md5>4d416bf090330d8a9e995478254738d3</md5>
+    <crc32>94ebb9b7</crc32>
+    <sha1>85e7d27f835be7d98feba4a218a00ef0618e7be5</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="eriadoradventures.zip" source="original">
+    <mtime>1636695777</mtime>
+    <size>29361694</size>
+    <md5>6c8c68171b5b138231dc7c00fb06d76d</md5>
+    <crc32>fd4ab7ab</crc32>
+    <sha1>be35f1f3173f83091fdd443eee97d61444f97f05</sha1>
+    <format>ZIP</format>
+    <viruscheck>1636695950</viruscheck>
+  </file>
+  <file name="lonelymountain_regionguide.zip" source="original">
+    <mtime>1636695794</mtime>
+    <size>31511854</size>
+    <md5>3240e9b22757bb643f853302c7920b5b</md5>
+    <crc32>7113e04d</crc32>
+    <sha1>073ed6e77992099450e68b792d2bbdd26c492fe0</sha1>
+    <format>ZIP</format>
+    <viruscheck>1636695950</viruscheck>
+  </file>
+  <file name="mirkwoodcampaign.zip" source="original">
+    <mtime>1636695819</mtime>
+    <size>36262624</size>
+    <md5>fd18cf7e3e96a71caba35fe1f4d65cf3</md5>
+    <crc32>1826924e</crc32>
+    <sha1>a4b683e9c02d3e74169f54b2aa2d3fca68f29d34</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="rhovanionregionguide.zip" source="original">
+    <mtime>1636695855</mtime>
+    <size>69083685</size>
+    <md5>9f607cfe3f176ff364fac92e099d406a</md5>
+    <crc32>48ee6442</crc32>
+    <sha1>c0f4822cd99e85a2c6ad33e14c33ad69d6e14044</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="rivendellregionguide.zip" source="original">
+    <mtime>1636695885</mtime>
+    <size>57614722</size>
+    <md5>02b14bdd4adf4d982a12f519adb7aa70</md5>
+    <crc32>46a88cf3</crc32>
+    <sha1>37174100b7924d9c798aae8ca4157da276ec32b9</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="theeavesofmirkwoodandloremastersscreen.zip" source="original">
+    <mtime>1636695907</mtime>
+    <size>39797345</size>
+    <md5>8eb5eabee928842ef0e484bc12465e80</md5>
+    <crc32>0ca34738</crc32>
+    <sha1>35d3716bae08f3e06aaf3635f76dcd2a02d2ab83</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="theroadgoeseveron.zip" source="original">
+    <mtime>1636695942</mtime>
+    <size>42762514</size>
+    <md5>7eed769612d3c3479533f57d235b7641</md5>
+    <crc32>35619fac</crc32>
+    <sha1>9d08e3d95597d1948dbc3089ece6a80bd801f54a</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="wilderlandadventures.zip" source="original">
+    <mtime>1636695964</mtime>
+    <size>40628915</size>
+    <md5>96e9a81e2d00134dd738dde5799e949c</md5>
+    <crc32>3974535e</crc32>
+    <sha1>b84a3de27079e9673d048b994121c8b2583a1ad7</sha1>
+    <format>ZIP</format>
+  </file>
+</files>
