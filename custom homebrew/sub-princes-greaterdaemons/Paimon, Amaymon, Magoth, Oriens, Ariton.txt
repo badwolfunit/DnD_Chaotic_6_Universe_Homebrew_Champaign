@@ -1,0 +1,30 @@
+    Medium-Large Fiends (Archdevils), Lawful Evil
+
+
+    Paimon, Amaymon, Magoth, Oriens, Ariton
+
+        AC: 18–20 | HP: 180–250 | Speed: 40–50 ft., fly 60–80 ft.
+
+        STR: 18–24 | DEX: 14–18 | CON: 18–24 | INT: 20–26 | WIS: 16–22 | CHA: 18–26
+
+        CR: 12–18 depending on the individual
+
+
+    Abilities:
+
+        Multiattack: 2–3 attacks (Claw, Bite, or Spell-Like Blast)
+
+        Unique Blast/Curse per Prince (psychic, poison, fire, or necrotic)
+
+        Aura of Command: Allies within 30 ft. gain +2 to attack rolls
+
+        Legendary Actions: 1–3 per round; minor blast, summon minion, move/teleport
+
+
+    Lair Actions (Optional):
+
+        Terrain alteration or elemental hazards based on Prince’s domain
+
+        Area curses or compulsion effects
+
+

@@ -1,0 +1,37 @@
+Novice Reforger
+
+
+Medium Humanoid (Fiend-Touched), Lawful Neutral
+
+
+AC: 16 (Studded Leather + Magical Focus)
+
+HP: 65 (10d8 + 20) | Speed: 30 ft.
+
+
+STR 14 (+2) | DEX 16 (+3) | CON 14 (+2) | INT 12 (+1) | WIS 12 (+1) | CHA 10 (+0)
+
+
+Skills: Arcana +3, Smith’s Tools +5
+
+Damage Resistances: Nonmagical B/P/S
+
+Senses: Darkvision 60 ft.
+
+Languages: Common, Infernal
+
+
+Multiattack: 2 weapon attacks (hammer or blade)
+
+
+Weapon Attack: +5 to hit, 1d8+2 bludgeoning (or slashing)
+
+
+Abilities:
+
+    Reforge Weapon: Once per short rest, can repair or enhance a weapon, granting +1 to attack and damage for 1 hour.
+
+    Arcane Smelt: Can spend an action to deal 2d6 fire damage to a metallic enemy or object.
+
+
+CR: 3

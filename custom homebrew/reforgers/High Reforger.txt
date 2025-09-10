@@ -1,0 +1,47 @@
+High Reforger
+
+
+Medium-Large Humanoid (Fiend-Touched), Lawful Neutral
+
+
+AC: 21 (Enchanted Plate)
+
+HP: 320 (32d10 + 128) | Speed: 30 ft.
+
+
+STR 22 (+6) | DEX 18 (+4) | CON 20 (+5) | INT 18 (+4) | WIS 18 (+4) | CHA 16 (+3)
+
+
+Skills: Arcana +9, Smith’s Tools +12, History +8, Insight +8
+
+Damage Resistances: Nonmagical B/P/S; fire, poison
+
+Senses: Darkvision 120 ft., Truesight 60 ft.
+
+Languages: Common, Infernal, Primordial
+
+
+Multiattack: 4 attacks + reforged weapon strike
+
+
+Abilities:
+
+    Legendary Reforge: Bonus action, can reforge any weapon in 30 ft., granting +5 to attack/damage for 1 hour
+
+    Summon Fiend-Touched Construct (Recharge 6): Summons 1d3 CR 10–12 constructs
+
+    Metal Shard Burst (Recharge 5–6): 6d8 slashing + 4d8 fire, 30-ft cone, DC 18 DEX save half
+
+    Aura of Reinforcement: Allies within 30 ft. gain +2 AC and +2 to attack rolls
+
+
+Legendary Actions (3/round):
+
+    Reforge Strike: +3d8 elemental damage
+
+    Quick Repair: Heal a construct or ally within 30 ft. for 3d10
+
+    Construct Summon (Costs 2 Actions): Summons 1d2 CR 6–8 constructs
+
+
+CR: 16

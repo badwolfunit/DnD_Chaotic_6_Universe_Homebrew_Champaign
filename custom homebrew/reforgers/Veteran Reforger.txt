@@ -1,0 +1,36 @@
+Veteran Reforger
+
+
+Medium Humanoid (Fiend-Touched), Lawful Neutral
+
+
+AC: 18 (Chain + Magical Focus)
+
+HP: 120 (16d8 + 48) | Speed: 30 ft.
+
+
+STR 18 (+4) | DEX 16 (+3) | CON 16 (+3) | INT 14 (+2) | WIS 14 (+2) | CHA 12 (+1)
+
+
+Skills: Arcana +5, Smith’s Tools +7, Athletics +6
+
+Damage Resistances: Nonmagical B/P/S
+
+Senses: Darkvision 60 ft.
+
+Languages: Common, Infernal
+
+
+Multiattack: 3 attacks (blade, hammer, or reforged weapon)
+
+
+Abilities:
+
+    Reforge Weapon: +2 to attack and damage, lasts 1 hour
+
+    Metal Shard Burst (Recharge 5–6): 15-ft cone, 3d8 slashing + 2d8 fire damage, DC 15 DEX save half
+
+    Reinforce Ally: Bonus action, grants ally +2 AC for 1 round
+
+
+CR: 6

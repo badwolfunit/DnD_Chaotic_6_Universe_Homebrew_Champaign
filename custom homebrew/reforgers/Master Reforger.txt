@@ -1,0 +1,38 @@
+Master Reforger
+
+
+Medium Humanoid (Fiend-Touched), Lawful Neutral
+
+
+AC: 19 (Plate + Arcane Runes)
+
+HP: 200 (24d8 + 96) | Speed: 30 ft.
+
+
+STR 20 (+5) | DEX 16 (+3) | CON 18 (+4) | INT 16 (+3) | WIS 16 (+3) | CHA 14 (+2)
+
+
+Skills: Arcana +7, Smith’s Tools +9, History +6, Insight +6
+
+Damage Resistances: Nonmagical B/P/S
+
+Senses: Darkvision 60 ft.
+
+Languages: Common, Infernal
+
+
+Multiattack: 3 attacks + reforged weapon strike
+
+
+Abilities:
+
+    Reforge Weapon: +3 to attack/damage, lasts 2 hours
+
+    Arcane Weaponry (Recharge 5–6): Any weapon within 30 ft. deals +2d6 elemental damage for 1 round
+
+    Summon Construct (1/Day): Summons a Steel Golem or Fiend-Touched Construct (CR 6–8)
+
+    Metal Shard Burst: 4d8 slashing + 3d8 fire, 20-ft cone, DC 16 DEX save half
+
+
+CR: 10
