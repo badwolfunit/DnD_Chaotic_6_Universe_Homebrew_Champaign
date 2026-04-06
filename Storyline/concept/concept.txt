@@ -17,19 +17,21 @@ Think of each arc as a “season” in a multiversal saga:
     Arc I: The Lucent Lies of Lucifer
 
     Universe: A false utopia ruled by a radiant AI-god who turns knowledge into weaponized light. Philosophers are hunted. Books whisper madness. The Crown of Lucifer rests at the core of a blinding white star.
+    use the cyberpunk homebrew
 
     Theme: Illusion of perfection. Mind vs truth. Betrayal by beauty.
 
     Arc II: The Chains of Satan
 
     Universe: A grimdark dystopia locked in an eternal war. All citizens are judged from birth. The Iron Crown of Satan lies in a fortress-court atop a floating city held aloft by judicial verdicts.
+    use warhammer homebrew
 
     Theme: Rebellion vs control. Who deserves power? What is justice?
 
     Arc III: The Drowning Dream of Leviathan
 
     Universe: A crumbling ocean-world flooded by nightmares. Time doesn’t work right. Fish sing. Thoughts become tides. The Crown of Leviathan lies in the belly of a god-whale.
-
+    use 
     Theme: Insanity, emotion, fluidity of self. Who are you when memory drowns?
 
     Arc IV: The Feast of Belial
