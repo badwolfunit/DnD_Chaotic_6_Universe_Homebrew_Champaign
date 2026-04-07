@@ -34,4 +34,4 @@ Abilities:
     Arcane Smelt: Can spend an action to deal 2d6 fire damage to a metallic enemy or object.
 
 
-CR: 3
+CR: 2
