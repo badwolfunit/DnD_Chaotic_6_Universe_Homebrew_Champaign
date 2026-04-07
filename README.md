@@ -12,4 +12,7 @@ I was trying to prepere a dnd champaign over multiple franchises including:
 each with their own universe as well as a custom homebrew for the story line.
 yeah ill type up the basic story line as well.
 
+use eldritch horror and sci fi themes when suitable
+use the sanity additional ability score
+
 do not expect this to be balanced in thr slightest
