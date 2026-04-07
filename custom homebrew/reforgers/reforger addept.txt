@@ -33,3 +33,5 @@ Special Traits:
     Dark Patron Boon: Gains a temporary +2 to spell attacks or saves for 1 hour after worship or ritual.
 
     Cunning Action: Can Dash, Disengage, or Hide as a bonus action.
+
+CR: 3
