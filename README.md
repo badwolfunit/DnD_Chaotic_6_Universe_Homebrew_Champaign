@@ -8,7 +8,7 @@ I was trying to prepere a dnd champaign over multiple franchises including:
 * lord of the rings (adventures in middle earth)
 * star wars (sw5e)
 
-[//]: # * doctor who(not added yet)
+[* doctor who(not added yet)]: #
 
 each with their own universe as well as a custom homebrew for the story line.
 yeah ill type up the basic story line as well.
