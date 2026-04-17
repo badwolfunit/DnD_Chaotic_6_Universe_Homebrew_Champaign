@@ -13,7 +13,7 @@ I was trying to prepere a dnd champaign over multiple franchises/universes inclu
 each with their own universe as well as a custom homebrew for the story line.
 ill type up the basic story line as well.
 I have no idea who is crazy enough to attempt to DM this
-I'll admit I've used AI on this becuase I have no idea how to go about makeing all of the different stat blocks but I still decided the concept and what things needed a stat block
+I'll admit I've used AI on this becuase I have no idea how to go about makeing all of the different stat blocks but I still designed the concept and what things needed a stat block
 
 ## THEMES
 use eldritch horror and sci fi themes when suitable
