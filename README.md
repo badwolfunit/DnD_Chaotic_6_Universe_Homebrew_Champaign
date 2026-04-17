@@ -1,7 +1,7 @@
 # A CHAMPAIGN FOR A MADMAN
 
 Ok. no idea of what i was trying to do here but it caused a mess of homebrews.
-I was trying to prepere a dnd champaign over multiple franchises including:
+I was trying to prepere a dnd champaign over multiple franchises/universes including:
 
 * warhammer
 * his dark materials (i used ai for this one since im new to DMing)
@@ -11,8 +11,11 @@ I was trying to prepere a dnd champaign over multiple franchises including:
 [* doctor who(not added yet)]: #
 
 each with their own universe as well as a custom homebrew for the story line.
-yeah ill type up the basic story line as well.
+ill type up the basic story line as well.
+I have no idea who is crazy enough to attempt to DM this
+I'll admit I've used AI on this becuase I have no idea how to go about makeing all of the different stat blocks
 
+## THEMES
 use eldritch horror and sci fi themes when suitable
 use the sanity additional ability score
 
