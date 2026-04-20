@@ -7,6 +7,7 @@ I was trying to prepere a dnd champaign over multiple franchises/universes inclu
 * his dark materials (i used ai for this one since im new to DMing)
 * lord of the rings (adventures in middle earth)
 * star wars (sw5e)
+* cyberpunk (technomancer's textbook)
 
 [* doctor who(not added yet)]: #
 
