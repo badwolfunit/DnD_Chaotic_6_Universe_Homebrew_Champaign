@@ -16,6 +16,7 @@ I have no idea who is crazy enough to attempt to DM this
 I'll admit I've used AI on this becuase I have no idea how to go about makeing all of the different stat blocks but I still designed the concept and what things needed a stat block
 
 ## THEMES
+
 use eldritch horror and sci fi themes when suitable
 use the sanity additional ability score
 
