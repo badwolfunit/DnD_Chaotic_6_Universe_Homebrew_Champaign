@@ -20,4 +20,4 @@ I'll admit I've used AI on this becuase I have no idea how to go about makeing a
 use eldritch horror and sci fi themes when suitable
 use the sanity additional ability score
 
-do not expect this to be balanced in thr slightest
+do not expect this to be balanced in the slightest
