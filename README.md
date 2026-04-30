@@ -1,15 +1,14 @@
 # A CHAMPAIGN FOR A MADMAN
 
 Ok. no idea of what i was trying to do here but it caused a mess of homebrews.
-I was trying to prepere a dnd champaign over multiple franchises/universes including:
+I was trying to prepere a dnd champaign over multiple universes including:
 
 * warhammer
 * his dark materials (i used ai for this one since im new to DMing)
 * lord of the rings (adventures in middle earth)
 * star wars (sw5e)
 * cyberpunk (technomancer's textbook)
-
-[* doctor who(not added yet)]: #
+* doctor who
 
 each with their own universe as well as a custom homebrew for the story line.
 ill type up the basic story line as well.
