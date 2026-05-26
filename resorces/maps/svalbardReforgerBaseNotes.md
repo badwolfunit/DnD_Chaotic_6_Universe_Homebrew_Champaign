@@ -13,7 +13,7 @@
 
 5. This room contains a simple well that appears to be the primary water source for the encampment. There is a light amount of tresure. There is a locked door between this room and room 4 although there is another entrance.
 
-6. At the end of a corridor leading out of room 4 is a small area used to train new recruits and novices. It has a row of benches down one side and a desk at the front. It is mostly safe, just don't get too near to the papers left on the desk (mimic) however interesting they seem.
+6. At the end of a corridor leading out of room 4 is a room used to train new recruits and novices. It has a rows of benches and a desk at the front. It is mostly safe, just don't get too near to the papers left on the desk (mimic) however interesting they seem.
 
 7. The dungeon prison. It is bisected into a single large filthy cell shared by all that are imprisoned. On the other side there is an altar for sacrifices. On that altar is a palidin (level ~3, member of harpers) with veteran reforger standing over them.
 
