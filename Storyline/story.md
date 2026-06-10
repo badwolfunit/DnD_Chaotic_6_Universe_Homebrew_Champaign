@@ -1,3 +1,5 @@
+# Storyline
+
 so the characters choose what universe to start of in and a class and race to match.
 
 no matter what universe they are in they become targeted by the reforgers in the street after they both had a couple of drinks.
@@ -7,6 +9,11 @@ They get into a fight in a tavern and are arested and get thrown in the local ja
 the players have 1 level of exhaustion and have the poisoned condition due to the hangover when they wake up.
 
 they also don't recognise each other from the night before
+
+This is descibed by the following intro read to the players:
+"Here ye, Here ye," The town criers voice rings through the square. "Last night there were multiple quarrels in our taverns, only one party was aprehended"
+You, unusually, are not there to listen to the anouncements. You are waking up with a throbing headache from the hangover in the town jail. The sheriff seeing you are awake walks over to your cell.
+"I see you're all awake then, don't expect to be getting out of here any time soon. You and those other guys wreaked our inns pretty badly last night."
 
 the players first choice is to try to decide how to get out (diplomacy escape or waiting)
 
@@ -19,6 +26,7 @@ when they get out they see a seemingly normal human from real life. he says "too
 the human (who is the physical in universe representation of the dm) brings them on board the millenium falcon and tells them the basics about the reforgers (the party didnt know anything before).
 
 He mentions the following facts:
+
 * their universe is not the only one (dc ~7 sanity saving throws all round please)
 * the reforgers seem to be appearing in all of the universes but always with the same style and intent
 * they seem to be recruiting
@@ -46,5 +54,5 @@ the reforger base is 5 miles northwest next to the coast.
 
 the journey is bitter and treacherous. the players must succeed at a DC12 CON check, if failed they take 1d4 cold damage.
 
-In the reforger base they find 2 novices, 2 addepts and a veteren. The novices and addepts are in the training hall and the veteren is in their own private ritual quaters. 
+In the reforger base they find 2 novices, 2 addepts and a veteren. The novices and addepts are in the training hall and the veteren is in their own private ritual quaters.
 Base is described in map notes for better free play.
