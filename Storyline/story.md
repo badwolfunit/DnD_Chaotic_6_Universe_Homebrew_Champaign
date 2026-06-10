@@ -19,7 +19,9 @@ the players first choice is to try to decide how to get out (diplomacy escape or
 
 if they use diplomacy make them have a conversation with the dm acting as the sheriff to decide the DC for the persuasion check
 
-if they decide to escape they have got to try to beat the sheriff in a fight
+if they decide to escape they have got to try to beat the sheriff in a fight or succeed in a stealth check
+
+if they wait then they can have a long rest and have no conditions when the sheriff lets them out after 24 hours. They can also familiarize their charcaters with the other members of the party
 
 when they get out they see a seemingly normal human from real life. he says "took you long enough didn't it" while looking up from his watch
 
